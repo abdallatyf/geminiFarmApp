@@ -1,0 +1,7 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "Snap a photo of your fridge, and this AI-powered app will identify ingredients, suggest recipes, and guide you through cooking with step-by-step instructions and read-aloud functionality.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
